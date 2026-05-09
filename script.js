@@ -4,7 +4,7 @@
 const url = "https://predict-69feb0bb42e1209faab4-dproatj77a-et.a.run.app/predict";
 
 // API Key untuk autentikasi
-const apiKey = ""ul_4bcf42a302b969a7fd55ecdde15b059cbe31d6e0";
+const apiKey = "ul_4bcf42a302b969a7fd55ecdde15b059cbe31d6e0";
 
 
 // =========================================
